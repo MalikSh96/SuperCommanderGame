@@ -61,11 +61,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CharacterBehaviour.cs" />
+    <Compile Include="Assets\Scripts\EndGameController.cs" />
     <Compile Include="Assets\Scripts\EndLevelController.cs" />
     <Compile Include="Assets\Scripts\EnemyDamage.cs" />
+    <Compile Include="Assets\Scripts\LoadStartGameController.cs" />
     <Compile Include="Assets\Scripts\PickUpBehaviour.cs" />
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
+    <Compile Include="Assets\SoftEffects\Scripts\CGHolder.cs" />
+    <Compile Include="Assets\SoftEffects\Scripts\ClassExtensions.cs" />
+    <Compile Include="Assets\SoftEffects\Scripts\GPUWorker.cs" />
+    <Compile Include="Assets\SoftEffects\Scripts\PrintData.cs" />
+    <Compile Include="Assets\SoftEffects\Scripts\SoftEffects.cs" />
+    <Compile Include="Assets\SoftEffects\Scripts\SoftEffectsFont.cs" />
+    <Compile Include="Assets\SoftEffects\Scripts\Styles.cs" />
+    <None Include="Assets\SoftEffects\Shaders\SoftEditShader.shader" />
     <None Include="Assets\Ninja Files\Read Me.txt" />
+    <None Include="Assets\SoftEffects\Shaders\SoftShaderSpriteWithShadows.shader" />
+    <None Include="Assets\SoftEffects\Shaders\SoftEffectsCompute.compute" />
+    <None Include="Assets\SoftEffects\Shaders\SoftShaderFontWithShadows.shader" />
+    <None Include="Assets\SoftEffects\Shaders\SoftShaderFont.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/malik/OneDrive/Documents/Unity/SuperCommander/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

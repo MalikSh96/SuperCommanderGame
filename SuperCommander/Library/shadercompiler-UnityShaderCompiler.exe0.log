@@ -12,3 +12,174 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=105584 outsize=105695 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=2181 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=473 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=1453 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=1453 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=773 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=1129 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=1437 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=1357 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=1265 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(3116): integer divides may be much slower, try using uints if possible.
+  api=4 insize=105695 outsize=3709 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=433 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=1517 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=1497 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=1565 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=1449 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(2388): integer divides may be much slower, try using uints if possible.
+  api=4 insize=105695 outsize=3377 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=1741 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SoftEffectsCompute.compute(673): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(721): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(768): implicit truncation of vector type
+  error: 1 plat 4 at SoftEffectsCompute.compute(816): implicit truncation of vector type
+  api=4 insize=105695 outsize=853 ok=1
+Cmd: preprocess
+  insize=5153 outsize=1490 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2906 outsize=746 kw=_SHAD_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2906 outsize=378 kw=_SHAD_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1644 outsize=834 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1644 outsize=446 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=5525 outsize=1665 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2960 outsize=746 kw=_SHAD_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2960 outsize=434 kw=_SHAD_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1789 outsize=834 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1789 outsize=398 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=2416 outsize=1176 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1683 outsize=834 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1683 outsize=666 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=5318 outsize=1534 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2904 outsize=746 kw=_SHAD_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2904 outsize=378 kw=_SHAD_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1768 outsize=834 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1768 outsize=666 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2960 outsize=746 kw=ETC1_EXTERNAL_ALPHA _SHAD_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2960 outsize=586 kw=ETC1_EXTERNAL_ALPHA _SHAD_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
